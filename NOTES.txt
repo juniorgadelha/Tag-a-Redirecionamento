@@ -3,3 +3,15 @@ a - BOTOES DE LINK
     
 
 
+git init   
+
+git add .  
+
+git commit -m "Mensagem qualquer" 
+
+git remote add origin ***endereço do link***   
+
+git push origin master    
+
+
+
